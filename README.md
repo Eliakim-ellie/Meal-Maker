@@ -63,7 +63,7 @@ npm run dev
 ## ✨ Future Improvements
 
 * Add image upload for dishes
-* Save and load meals from localStorage or backend
+  
 * Filter meals by dietary preferences
 
 ---
