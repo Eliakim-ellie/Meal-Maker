@@ -1,4 +1,4 @@
-# Meal-Maker
+# Meal-Maker for real
 # Meal Maker 🍽️
 
 A fun, interactive web app built with **React** and **Tailwind CSS** that lets users build a menu by adding dishes to courses (appetizers, mains, desserts) and generate a random three-course meal with the total price.
