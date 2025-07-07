@@ -9,7 +9,6 @@ A fun, interactive web app built with **React** and **Tailwind CSS** that letuse
 * Automatically generate a random meal from the menu
 * Calculate total meal cost
 * Responsive, clean UI using Tailwind CSS
-
 ---
 
 ## 🧱 Tech Stack
