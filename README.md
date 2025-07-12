@@ -16,8 +16,6 @@ A fun, interactive web app built with **React** and **Tailwind CSS** that letuse
 * **React** (with Hooks)
 * **Tailwind CSS** for styling
 
----
-
 ## 📂 Project Structure
 
 ```
